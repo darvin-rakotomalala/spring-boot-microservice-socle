@@ -4,7 +4,9 @@ pour créer une structure de projet de Spring Boot propre.
 
 ### Architecture globale des couches
 ---
+![archi_globale_socle](https://user-images.githubusercontent.com/75081354/152366192-6d607f66-f971-4c70-bfbd-90149ee8eb4c.jpg)
 
+<br/>
 
 ### Explication
 **Couche contrôleur** :
@@ -41,7 +43,7 @@ Il y a quelques terminologies et concepts que vous devriez vous familiariser ava
 * Gestion des erreurs techniques : Les Checked Exceptions sont les exceptions que nous pouvons généralement prévoir et planifier à l'avance dans notre application.
 * Gestion des erreurs fonctionnelles : Les Unchecked Exceptions sont les exceptions qui se produisent généralement en raison d'une erreur humaine plutôt que d'une erreur environnementale.
 
-<IMG PACKAGES>
+![structure_projet](https://user-images.githubusercontent.com/75081354/152366257-de6e20de-c715-41df-b6b1-d698a5fecd1a.PNG)
 
 **La structure des packages**<br/>
 Ce socle est formé de 5 grands packages :<br/>
